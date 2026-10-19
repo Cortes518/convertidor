@@ -1,0 +1,26 @@
+{
+  "name": "conversor-medidas-juanjosecortessanchez",
+  "version": "1.0.0",
+  "description": "Conversor de monedas (USD, EUR, COP) con tasas fijas",
+  "main": "src/index.js",
+  "files": [
+    "src"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "conversor",
+    "monedas",
+    "divisas",
+    "USD",
+    "EUR",
+    "COP"
+  ],
+  "author": "Juan Jose Cortes Sanchez <juanjocortes518@gmail.com>",
+  "license": "ISC",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=16.9"
+  }
+}
